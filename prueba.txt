@@ -1,0 +1,3 @@
+Hola mundo desde mi compu :D
+
+Este archivo se llama prueba.txt y está guardado en una carpeta vacía
