@@ -1,3 +1,5 @@
-Hola mundo desde mi compu :D
+Hola mundo desde mi GitHub :D
 
 Este archivo se llama prueba.txt y está guardado en una carpeta vacía
+
+Modifiqué este archivo desde Australia
