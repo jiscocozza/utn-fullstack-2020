@@ -3,3 +3,6 @@ Hola mundo desde mi GitHub :D
 Este archivo se llama prueba.txt y está guardado en una carpeta vacía
 
 Modifiqué este archivo desde Australia
+
+
+Hola Australia! Que buena país, con cerveza, café y canguros!
